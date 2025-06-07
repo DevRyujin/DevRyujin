@@ -1,5 +1,3 @@
-
-<h1 align="center">⚡ Hi, I’m Jade Andrei Santos ⚡</h1>
 <h2>About Me @DevRyujin</h2>
 <p>
   I'm a passionate Software Engineering student at <strong>Lithan EduCLaaS Singapore</strong>,
